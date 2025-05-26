@@ -32,3 +32,45 @@
 ===========
 [2025-05-25 23:04:27] Текст ошибки: Undefined variable $test | Файл: C:\OSPanel\home\framework.local\public\index.php | Строка: 11
 ===========
+[2025-05-26 22:27:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 33
+===========
+[2025-05-26 22:27:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 33
+===========
+[2025-05-26 22:37:36] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 46
+===========
+[2025-05-26 22:38:24] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 46
+===========
+[2025-05-26 22:38:27] Текст ошибки: Class "wfm\sefl" not found | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 33
+===========
+[2025-05-26 22:38:29] Текст ошибки: Class "wfm\sefl" not found | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 33
+===========
+[2025-05-26 22:38:55] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 42
+===========
+[2025-05-26 22:43:23] Текст ошибки: Метод app\controllers\PageController::controllerAction не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 42
+===========
+[2025-05-26 22:44:44] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 46
+===========
+[2025-05-26 22:45:18] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 46
+===========
+[2025-05-26 22:45:20] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 46
+===========
+[2025-05-26 23:01:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:01:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:01:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:01:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:01:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:02:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:02:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:02:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 68
+===========
+[2025-05-26 23:04:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 67
+===========
+[2025-05-26 23:06:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\home\framework.local\vendor\wfm\Router.php | Строка: 67
+===========
